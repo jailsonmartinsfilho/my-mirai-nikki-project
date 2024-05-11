@@ -20,6 +20,7 @@ Embora esse aplicativo de diário não possa prever o futuro, com certeza serve 
 - **Caso queira testar o aplicativo de forma remota sem instalar nada.**
   - [Teste o APK aqui](https://appetize.io/app/e6nvkaxqz6b67ae53zh2sphs4y?device=pixel7&osVersion=13.0)
   Este link permite que você teste o aplicativo em um emulador online.
+  Recomendo que faça isso em um dispositivo com boas especificações de hardware, já que o simulador é exige muito processamento.
 
 ## Instalando
 - **Caso tenha disponibilidade, recomendo que instale o aplicativo no seu celular visto que o emulador não entrega a performance e recursos totais.**
