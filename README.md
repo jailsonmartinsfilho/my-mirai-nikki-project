@@ -15,7 +15,7 @@ Embora esse aplicativo de diário não possa prever o futuro, com certeza serve 
 - **Interação entre usuários** 
 - **Integração com inteligência artificial** 
 
-## Testando o aplicativo Instalação
+## Testando o aplicativo 
 
 - **Caso queira testar o aplicativo de forma remota sem instalar nada.**
   - [Teste o APK aqui](https://appetize.io/app/e6nvkaxqz6b67ae53zh2sphs4y?device=pixel7&osVersion=13.0)
