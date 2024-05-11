@@ -3,7 +3,6 @@
 My Mirai Nikki é um aplicativo de diário inspirado na série de anime japonesa "Mirai Nikki" (Diário do Futuro). Na série, um garoto chamado Yuki escreve praticamente tudo em seu diário o tempo todo. Um dia, ele percebe que seu diário, ao invés de mostrar seu passado, começa a revelar seu futuro.
 
 ![](https://media.discordapp.net/attachments/1236293370284867664/1238594435059814400/2024-05-10_17-50-54_High_Res_Screenshot.png?ex=663fda75&is=663e88f5&hm=2cb74f634e2d53c1c2033b842c481266001c801938493e41ad54d9a00752b262&=&format=webp&quality=lossless&width=213&height=473)
-![](https://media.discordapp.net/attachments/1236293370284867664/1238594435395227798/2024-05-10_17-51-08_High_Res_Screenshot.png?ex=663fda75&is=663e88f5&hm=cae332a7524ca877e3e7eb822f01cfbc6197d5539fe9150894e2867d95b80ba2&=&format=webp&quality=lossless&width=213&height=473)
 ![](https://media.discordapp.net/attachments/1236293370284867664/1238594435743219734/2024-05-10_17-51-25_High_Res_Screenshot.png?ex=663fda75&is=663e88f5&hm=9092df27eda0fc8ad3c5bd13fb6270c8fa04dd96a926c1c1da5f7a340796bfa8&=&format=webp&quality=lossless&width=213&height=473)
 ![](https://media.discordapp.net/attachments/1236293370284867664/1238594434593980546/2024-05-10_17-51-36_High_Res_Screenshot.png?ex=663fda75&is=663e88f5&hm=e52e2fca1a16591ab32825ee7767527fd2f2ad3a4deea7bd7c5236706825c8de&=&format=webp&quality=lossless&width=213&height=473)
 
